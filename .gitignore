@@ -1,5 +1,4 @@
 # Composer
-.composer
 
 # Sass
 .sass-cache
@@ -9,12 +8,7 @@ backup/*
 !backup/.*
 cache/*
 !cache/.*
-assets/*
-!assets/.*
-logs/*
-!logs/.*
-images/*
-!images/.*
+
 
 # OS Generated
 .DS_Store*
